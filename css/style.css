@@ -1,0 +1,106 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+html { 
+  background: url(../img/lio.jpg)  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.container {
+     width: 300px;
+    background-color: #677aa7a6;
+    height: 420px;
+    margin: 10% auto;
+    color:white;
+    
+    border-radius: 10px;
+}
+
+.login-section {
+
+	padding: 10%;
+}
+
+img{
+  margin:0 auto;
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.login-section h2 {
+	text-align: center;
+  text-transform: uppercase;
+  font-size: 30px;
+  font-family: Arial;
+}
+.form-control {
+    width:85%;  
+	padding: 10px;
+	margin: 10px auto; 
+	border:none;
+	opacity: 0.8;
+	outline: none;
+	border-radius: 100px;
+}
+.button {
+	margin: 20px auto;
+	padding: 10px;
+	display: block;
+	border-radius: 5px;
+	background-color: black;
+	text-transform: uppercase;
+	color: yellow; 
+	box-shadow: none;
+	border:1px solid white;
+	transition-duration: 0.4s;
+	-webkit-transition: 0.4s ease-in-out;
+  -moz-transition: 0.4s ease-in-out;
+  -o-transition: 0.4s ease-in-out;
+	
+}
+
+.button:hover {
+	box-shadow: 1px 2px 3px white;
+	cursor: pointer;
+}
+a{
+	text-decoration: none;
+	color:brown;
+	font-weight: bold;
+}
+.lio{
+	margin-left: 10px;
+}
+
+.form-contro
+{
+	width:85%;  
+	padding: 10px;
+	margin: 10px auto; 
+	border:none;
+	opacity: 0.8;
+	outline: none;
+	border-radius: 0px;
+}
+
+.butto
+{
+	margin: 30px auto;
+	padding: 10px;
+	display: block;
+	border-radius: 5px;
+	background-color: red;
+	text-transform: uppercase;
+	color: white; 
+	box-shadow: none;
+	border:1px solid blue;
+	
+}
+
